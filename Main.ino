@@ -14,15 +14,6 @@ struct employee_acc {
   float employee_salary;
 };
 
-// Attempted to use switch case for fsm but could not work it out
-// enum Mode {
-//   ADD = 0,
-//   PST = 1,
-//   GRD = 2,
-//   SAL = 3,
-//   CJT = 4,
-//   DEL = 5
-// };
 
 employee_acc employees[20];
 
